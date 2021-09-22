@@ -1,14 +1,14 @@
-# TumbReco License
-TumbRecoは Fairy I/O Tumbler を利用した会議・インタビューの書き起こしサービスです．
-このリポジトリでは TumbReco に関連するオープンソースライセンスについて記載しています．
+# recomemo License
+recomemoは Fairy I/O Tumbler を利用した会議・インタビューの書き起こしサービスです．
+このリポジトリでは recomemo に関連するオープンソースライセンスについて記載しています．
 
 # Tumbler Base System
-Fairy I/O Tumbler にインストールしているOSと各種パッケージに関するライセンスは以下の通りです．TumbReco レンタル利用用途での Tumbler については `License` に記載のソフトウェアを利用しています．
+Fairy I/O Tumbler にインストールしているOSと各種パッケージに関するライセンスは以下の通りです．recomemo レンタル利用用途での Tumbler については `License` に記載のソフトウェアを利用しています．
 
 - [License](./tumbler/licenses.txt)
 
-# TumbReco
-TumbReco で利用しているオープンソースソフトウェアについては以下の通りです．ライセンスについてはリンク先をご確認ください．
+# recomemo
+recomemo で利用しているオープンソースソフトウェアについては以下の通りです．ライセンスについてはリンク先をご確認ください．
 
 - [libmimixfe](https://github.com/FairyDevicesRD/libmimixfe)
 - [libtumbler](https://github.com/FairyDevicesRD/tumbler/blob/master/LICENSE)
